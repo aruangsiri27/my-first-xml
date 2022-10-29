@@ -1,0 +1,17 @@
+<menu>
+  <food>
+     <name>Pizza</name>
+     <price>$10</price>
+     <calorie>450</calorie>
+  </food> 
+  <food>
+     <name>Dimsum</name>
+     <price>$25</price>
+     <calorie>320</calorie>
+  </food> 
+  <food>
+     <name>PadThai</name>
+     <price>$17</price>
+     <calorie>480</calorie>
+  </food> 
+</menu>
